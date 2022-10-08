@@ -1,6 +1,6 @@
 # Geometric-Outlook  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="90px">
 
-https://vrushalipachchigar.github.io/Geometric-Outlook/
+https://ishandalwadi.github.io/Geometric-Outlook/
 
 A static Webpage made by using Bootstrap and adding many new features and styling to make it look more attractive.
 
